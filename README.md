@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mahmoud Salah</h1>
-<h3 align="center">A passionate IOS developer from Egypt</h3>
+<h1 align="left">Hi 👋, I'm Mahmoud Salah</h1>
+<h3 align="left">A passionate IOS developer from Egypt</h3>
 
 <p align="left"> <a href="https://twitter.com/mahsah53" target="blank"><img src="https://img.shields.io/twitter/follow/mahsah53?logo=twitter&style=for-the-badge" alt="mahsah53" /></a> </p>
 
