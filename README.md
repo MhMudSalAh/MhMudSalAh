@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mahmoud Salah</h1>
 <h3 align="left">A passionate IOS developer from Egypt</h3>
 
-🔶 iOS engineer with **8 years** of experience 👨🏻‍💻.
+🔶 iOS engineer with **+8 years** of experience 👨🏻‍💻.
 
 📊 I am working with UIKit, SwiftUI, Combine, Modern Concurrency, Modularization, Clean Architecture, MVVM, Viper, VIP, Design patterns, and SOLID principles.
 
