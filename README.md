@@ -3,7 +3,7 @@
 
 🔶 iOS engineer with **8 years** of experience 👨🏻‍💻.
 
-📊 I am working with UIKit, SwiftUI, Combine, Modularization, Clean Architecture, Design patterns, and SOLID principles.
+📊 I am working with UIKit, SwiftUI, Combine, Modern Concurrency, Modularization, Clean Architecture, MVVM, Viper, VIP, Design patterns, and SOLID principles.
 
 📈 Experienced in Git, GitFlow, CI/CD, Fastlane & Bitrise.
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/mahmoud-salah-a40465149/)
 
-- 📄 Know about my experiences [CV](https://drive.google.com/drive/folders/1dc9e1aVcCJ47O8yrOXsBb0ngal1CDh39?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AE3YOaXR-FIB9GW4RdSYTzilsPBYvuR0/view?usp=sharing)
 
 - 💬 Ask me about **IOS Development**
 
